@@ -1,0 +1,48 @@
+.navbar{
+  padding: 20px 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar li{
+  cursor: pointer;
+}
+.navbar .logo{
+  width:150px;
+}
+.navbar-menu{
+  display: flex;
+  list-style: none;
+  gap:20px;
+  color: #49557e;
+  font-size: 18px;
+margin-right: 600px;
+}
+.navbar-menu a{
+  text-decoration: none;
+}
+.navbar .active{
+  padding: 2px;
+  border-bottom: 2px solid #49557e;
+}
+.contact-left span{
+  max-width: 550px;
+  color: #49557e;
+  font-size: 20px;
+  line-height: 35px;
+
+}
+.contact-left h1{
+  font-size: 40px;
+  font-weight: 700;
+  background: linear-gradient(270deg,#DF8908 80%,#B415FF 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0;
+}
+.nadia{
+  width: 50px;
+  margin-right: 100px;
+  
+}

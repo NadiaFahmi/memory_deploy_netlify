@@ -1,0 +1,31 @@
+.photo-display{
+  margin-top: 30px;
+  justify-content: center;
+  padding: 20px;
+
+}
+.photo-display h2{
+  font-size:max(2vw,24px) ;
+  font-weight: 600;
+
+}
+.photo-display-list{
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(180px,1fr));
+  /* grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; */
+  /* grid-template-columns: repeat(auto-fill, minmax(24px, 1fr)); - This defines the columns of the grid. auto-fill fills the row with as many columns as it can fit. minmax(24px, 1fr) means that each column can be a minimum of 24px and a maximum of 1 fraction of the free space in the grid container.  */
+
+  margin-top: 30px;
+  gap:60px;
+  /* gap:30px; */
+
+  row-gap: 50px;
+  }
+.photo-display-list img{
+  width: 100%; /* Adjust the width to fill the grid cell */
+  height: auto; /* Maintain the aspect ratio */
+
+
+
+
+}
