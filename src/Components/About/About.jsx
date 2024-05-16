@@ -33,3 +33,6 @@ import { assets } from '../Assets/All_image'
 }
 
 export default About
+
+
+// "@babel/plugin-proposal-private-property-in-object": "^7.16.11",
