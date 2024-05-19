@@ -108,149 +108,143 @@ export const all_images = [
 ]
 export const photo_list = [
   {
-      _id: "1",  
+      id: 1,  
       image: family_1, 
       category: "nadia",
       description:"lovely photo for Nadia"
   },
   {
-    _id: "2",  
+    id: 2,  
     image: family_2, 
     category: "nahla",
     description:"lovely photo for Nahla"
 },
 // {
-//   _id: "3",  
+//   id: "3",  
 //   image: family_3, 
 //   category: "nahla",
 //   description:"lovely photo for Nahla"
 // },
 {
-  _id: "24",  
+  id: 3,  
   image: family_24, 
   category: "jailan",
   description:"lovely photo for Jailan"
   },
 
 {
-  _id: "4",  
+  id: 4,  
   image: family_4, 
   category: "nahla",
   description:"lovely photo for Nahla"
 },
 {
-  _id: "5",  
+  id: 5,  
   image: family_5, 
   category: "nahla",
   description:"lovely photo for Nadia"
 },
 {
-  _id: "6",  
+  id: 6,  
   image: family_6, 
   category: "suzi",
   description:"lovely photo for Suzi"
 },
 {
-_id: "7",  
+id: 7,  
 image: family_7, 
 category: "suzi",
 description:"lovely photo for Suzi"
 },
 
 {
-_id: "10",  
+id: 8,  
 image: family_10, 
 category: "nadia",
 description:"lovely photo for Nadia"
 },
 // {
-// _id: "11",  
+// id: "11",  
 // image: family_11, 
 // category: "nadia",
 // description:"lovely photo for Nadia"
 // },
 {
-  _id: "12",  
+  id: 9,  
 image: family_12, 
 category: "jailan",
 description:"lovely photo for Jailan"
 },
 {
-_id: "13",  
+id: 10,  
 image: family_13, 
 category: "suzi",
 description:"lovely photo for Suzan"
 },
 {
-  _id: "15",  
+  id: 11,  
   image: family_15, 
   category: "norhan",
   description:"lovely photo for Norhan"
   },
   {
-    _id: "16",  
+    id: 12,  
     image: family_16, 
     category: "norhan",
     description:"lovely photo for Norhan"
     },
     {
-      _id: "17",  
+      id: 13,  
       image: family_19, 
       category: "nadia",
       description:"lovely photo for Nadia"
       },
       {
-        _id: "18",  
+        id: 14,  
         image: family_18, 
         category: "norhan",
         description:"lovely photo for Norhan"
         },
    
         {
-          _id: "19",  
+          id: 15,  
           image: family_17, 
           category: "norhan",
           description:"lovely photo for Norhan"
           },
           
           {
-            _id: "21",  
+            id: 16,  
             image: family_21, 
             category: "norhan",
             description:"lovely photo for Norhan"
             },
             {
-              _id: "22",  
+              id: 17,  
               image: family_22, 
               category: "norhan",
               description:"lovely photo for Norhan"
               },
               {
-                _id: "9",  
+                id: 18,  
                 image: family_9, 
                 category: "norhan",
                 description:"lovely photo for Norhan"
                 },
               
-                  // {
-                  //   _id: "25",  
-                  //   image: family_25, 
-                  //   category: "nadia",
-                  //   description:"lovely photo for Nadia"
-                  //   },
-                    {
-                      _id: "8",  
-                      image: family_8, 
-                      category: "norhan",
-                      description:"lovely photo for Norhan"
-                      },
-     {
-          _id: "3",  
-          image: family_31, 
-          category: "norhan",
-          description:"lovely photo for Norhan"
-        }, 
-                
+            {
+              id: 19,  
+              image: family_8, 
+              category: "norhan",
+              description:"lovely photo for Norhan"
+              },
+             {
+                id: 20,  
+                image: family_31, 
+                category: "norhan",
+                description:"lovely photo for Norhan"
+              }, 
+                      
      
    
 ]

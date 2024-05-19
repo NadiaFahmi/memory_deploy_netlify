@@ -16,7 +16,7 @@ const PhotoDisplay = ({category}) => {
 
             return  <PhotoItem 
             key={index}
-            id={item._id}
+            id={item.id}
             image={item.image}
             description={item.description}
           />
